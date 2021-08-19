@@ -1,1 +1,1 @@
-<h1 class="center"> 👋 Hi, I’m @exeDream </h1>
+<h1 class="float:center"> 👋 Hi, I’m @exeDream </h1>
